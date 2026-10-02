@@ -38,7 +38,4 @@ Run:
 
 ```bash
 python3 hangman_game.pyThen enter one letter at a time when prompted.
-Internship
-This project was created as part of my CodeAlpha Python Programming Internship.
-Author
-Himanshu Kanojia
+

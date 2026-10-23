@@ -39,3 +39,37 @@ Run:
 ```bash
 python3 hangman_game.pyThen enter one letter at a time when prompted.
 
+
+
+## Task 2: Stock Portfolio Tracker
+
+A simple Python application that calculates the total investment value of stocks using predefined stock prices.
+
+### Features
+- Displays available stocks and their sample prices.
+- Accepts stock symbols and share quantities from the user.
+- Calculates the total investment value.
+- Displays a portfolio summary.
+- Optionally saves the summary to a text file.
+
+### Concepts Used
+- Dictionaries
+- User input and output
+- Loops and conditional statements
+- Basic arithmetic
+- File handling
+
+### How to Run
+
+Make sure Python 3 is installed.
+
+Run:
+
+```bash
+python3 stock_portfolio_tracker.py
+```
+
+Follow the prompts to enter stock symbols and quantities.
+
+**Note:** Stock prices are predefined sample values for learning purposes, not live market prices or financial advice.
+
